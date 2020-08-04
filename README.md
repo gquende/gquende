@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/gquende/gquende/blob/master/bggquende.png">
-
 
 ## Olá 👋
 
