@@ -1,9 +1,8 @@
 
-# Geraldo Quende
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um UI Designer and Front End Developer :computer:
+## Olá 👋
+
+**Sou Geraldo** apaixonado por Front End e UI, actualmente trabalho com **Flutter** e Java com ênfase em **JavaFx**
 
  Estou trabalhando 👨‍💻 na **Vipas**
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end usando JavaFx e Flutter
