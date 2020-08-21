@@ -6,7 +6,6 @@
 
  Estou trabalhando 👨‍💻 na **VIPAS**
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end usando JavaFx e Flutter
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minhas tecnologias: Java, JavaFX, PrimeFaces, Flutter
  <br/> 💬  &nbsp; Sobre mim: Sou entusiasta da Tecnologia e Empreendedorismo, Hobby: Leitura, Games e Design
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GeraldoQuende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gquende/)](https://www.linkedin.com/in/gquende/) 
