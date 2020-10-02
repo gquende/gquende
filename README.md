@@ -15,3 +15,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gquende&show_icons=true&theme=graywhite)
 
 ![Profile views](https://gpvc.arturio.dev/gquende)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gquende94&layout=compact&hide=html" alt="Geraldo" />
