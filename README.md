@@ -11,3 +11,7 @@
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GeraldoQuende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gquende/)](https://www.linkedin.com/in/gquende/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gquende@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gquende@hotmail.com)](mailto:gquende@hotmail.com)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gquende&show_icons=true&theme=graywhite)
+
+![Profile views](https://gpvc.arturio.dev/gquende)
