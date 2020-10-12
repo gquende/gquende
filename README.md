@@ -1,10 +1,7 @@
-
-<button tyle=" background-color: blue; color:white;padding:30px;"> Hello</button>
 ## Olá 👋
 
 **Sou Geraldo** apaixonado por Front End e UI, actualmente trabalho com **Flutter** e Java com ênfase em **JavaFx**
 
- Estou trabalhando 👨‍💻 na **VIPAS**
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end usando JavaFx e Flutter
  <br/> :computer: &nbsp; Minhas tecnologias: Java, JavaFX, PrimeFaces, Flutter
  <br/> 💬  &nbsp; Sobre mim: Sou entusiasta da Tecnologia e Empreendedorismo, Hobby: Leitura, Games e Design
