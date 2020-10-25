@@ -3,7 +3,7 @@
 **Sou Geraldo** apaixonado por Front End e UI, actualmente trabalho com **Flutter** e Java com ênfase em **JavaFx**
 
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end usando JavaFx e Flutter
- <br/> :computer: &nbsp; Minhas tecnologias: Java, JavaFX, PrimeFaces, Flutter <br/>
+ <br/> :computer: &nbsp; Minhas tecnologias: Java, JavaFX, PrimeFaces, Flutter <br/> :book: &nbsp;
  📖    Actualmente estou aprendendo Nodejs e Python
  <br/> 💬  &nbsp; Sobre mim: Sou entusiasta da Tecnologia e Empreendedorismo, Hobby: Leitura, Games e Design
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GeraldoQuende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gquende/)](https://www.linkedin.com/in/gquende/) 
