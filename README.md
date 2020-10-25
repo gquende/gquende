@@ -13,11 +13,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gquende&show_icons=true&theme=graywhite)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gquende&layout=compact&hide=html" alt="Geraldo" />
-
-**Languages and Tools:**  
-
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/java.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/react.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/nodejs.png"></code>
