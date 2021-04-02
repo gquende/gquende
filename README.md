@@ -7,10 +7,7 @@
  <br/> :book: &nbsp; Actualmente estou aprendendo **Python**
  <br/> 💬  &nbsp; Sobre mim: Sou entusiasta da Tecnologia e Empreendedorismo, Hobby: Leitura, Games e Design
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GeraldoQuende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gquende/)](https://www.linkedin.com/in/gquende/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-gquende@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gquende@hotmail.com)](mailto:gquende@hotmail.com)
-
-<p align="center">
+<p align="left">
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gquende&show_icons=true&theme=graywhite" alt="Geraldo" />
