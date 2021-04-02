@@ -11,7 +11,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-gquende@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gquende@hotmail.com)](mailto:gquende@hotmail.com)
 
 <p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gquende&show_icons=true&theme=graywhite)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gquende&show_icons=true&theme=graywhite" alt="Geraldo" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gquende&layout=compact&hide=html" alt="Geraldo" />
 
