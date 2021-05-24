@@ -1,8 +1,8 @@
-## Olá 👋
+## Olá Terráqueo, Bem vindo ao meu perfil 👋
 
 **Sou Geraldo** apaixonado por Front End e UI, actualmente trabalho com **Flutter** e Java com ênfase em **JavaFx**
 
- <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end usando JavaFx e Flutter
+ <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end usando Java e Flutter
  <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter** 
  <br/> :book: &nbsp; Actualmente estou aprendendo **Angular e NodeJs**
  <br/> 💬  &nbsp; Sobre mim: Sou entusiasta da Tecnologia e Empreendedorismo, Hobby: Leitura, Games e Design
