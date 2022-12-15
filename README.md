@@ -10,8 +10,6 @@
 <p align="left">
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gquende&show_icons=true&theme=graywhite" alt="Geraldo" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gquende&layout=compact&hide=html" alt="Gerald" />
 
 </p>
