@@ -1,6 +1,6 @@
-## Olá Terráqueo, Bem vindo ao meu perfil 👋
+## Bem vindo 👋
 
-**Sou Geraldo** apaixonado por Tecnologias, actualmente trabalho com **Flutter** e Java
+**Sou Geraldo** apaixonado por Tecnologias, actualmente trabalho com **Flutter**
 
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Java, Flutter
  <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter, Python** 
