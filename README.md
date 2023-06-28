@@ -1,11 +1,12 @@
 ## Bem vindo 👋
 
-**Sou Geraldo** apaixonado por Tecnologias, actualmente trabalho com **Flutter**
+**Geraldo** 
 
- <br/> :heart: &nbsp; Buscando colaborar com projetos em Java, Flutter
- <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter, Python** 
+ <br/> 💬  &nbsp; Jovem apaixonado por tecnologia, UI/UX Design e entusiasta de desenvolvimento de software. Sempre disposto a aprender novas techs, nunca me limitei a uma linguagem / plataforma ou tecnologia específica. Com profunda experiência de trabalho em Java, Flutter, Django, Spring Boot, desenvolvimento de API's, designs web extraordinários, implantando qualquer sistema funcional em uma pequena hospedagem ou serviços baseados em nuvem, como AWS, Azure, Firebase.
+
+ <br/> :heart: &nbsp; Buscando colaborar com projetos em Java, Flutter, Laravel
+ <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter,Laravel, Python** 
  <br/> :book: &nbsp; Actualmente estou aprendendo **Business Intelligence & Analytics**
- <br/> 💬  &nbsp; Sobre mim: Sou entusiasta da Tecnologia e Empreendedorismo, Hobby: Leitura, Games e Design
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GeraldoQuende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gquende/)](https://www.linkedin.com/in/gquende/) 
 <p align="left">
 
