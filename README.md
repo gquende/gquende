@@ -2,7 +2,14 @@
 
 **Geraldo** 
 
- <br/> 💬  &nbsp; Jovem apaixonado por tecnologia, UI/UX Design e entusiasta de desenvolvimento de software. Sempre disposto a aprender novas techs, nunca me limitei a uma linguagem / plataforma ou tecnologia específica. Com profunda experiência de trabalho em Java, Flutter, Django, Spring Boot, desenvolvimento de API's, designs web extraordinários, implantando qualquer sistema funcional em uma pequena hospedagem ou serviços baseados em nuvem, como AWS, Azure, Firebase.
+ <br/> 
+
+💬  &nbsp; 
+O que se tem quando se combina uma mente formada em Engenharia Informática voltada para soluções locais com coração orientado à resultados?
+
+Um profissional criativo disposto a resolver problemas, com mais de 3 anos de experiência em tecnologia de informação,  Amante de novos desafios e atento e disposto a aprender novas techs no seu campo de acção afim de dar respostas mais eficazes aos novos problemas.
+
+Apaixonado por tecnologia, UI/UX Design e Análise de dados. Com experiências de trabalho em tecnologias como Java, Flutter, Django, Spring Boot, Laravel, AWS, Azure, Firebase.
 
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Java, Flutter, Laravel
  <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter,Laravel, Python** 
