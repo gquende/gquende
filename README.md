@@ -7,12 +7,12 @@
 💬  &nbsp; 
 O que se tem quando se combina uma mente formada em Engenharia Informática voltada para soluções locais com coração orientado à resultados?
 
-Um profissional criativo disposto a resolver problemas, com mais de 3 anos de experiência em tecnologia de informação,  Amante de novos desafios e atento e disposto a aprender novas techs no seu campo de acção afim de dar respostas mais eficazes aos novos problemas.
+Um profissional criativo disposto a resolver problemas, com mais de 4 anos de experiência em tecnologia de informação,  Amante de novos desafios e atento e disposto a aprender novas techs no seu campo de acção afim de dar respostas mais eficazes aos novos problemas.
 
-Apaixonado por tecnologia, UI/UX Design e Análise de dados. Com experiências de trabalho em tecnologias como Java, Flutter, Django, Spring Boot, Laravel, AWS, Azure, Firebase.
+Apaixonado por tecnologia, UI/UX Design e Análise de dados. Com experiências de trabalho em tecnologias como Java, Flutter, Django, Spring Boot, Laravel, AWS, Google Cloud, Firebase.
 
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Java, Flutter, Laravel
- <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter,Laravel, Python** 
+ <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter,Laravel** 
  <br/> :book: &nbsp; Actualmente estou aprendendo **Business Intelligence & Analytics**
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GeraldoQuende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gquende/)](https://www.linkedin.com/in/gquende/) 
 <p align="left">
