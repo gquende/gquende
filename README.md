@@ -5,11 +5,6 @@
  <br/> 
 
 💬  &nbsp; 
-O que se tem quando se combina uma mente formada em Engenharia Informática voltada para soluções locais com coração orientado à resultados?
-
-Um profissional criativo disposto a resolver problemas, com mais de 4 anos de experiência em tecnologia de informação,  Amante de novos desafios e atento e disposto a aprender novas techs no seu campo de acção afim de dar respostas mais eficazes aos novos problemas.
-
-Apaixonado por tecnologia, UI/UX Design e Análise de dados. Com experiências de trabalho em tecnologias como Java, Flutter, Django, Spring Boot, Laravel, AWS, Google Cloud, Firebase.
 
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Java, Flutter, Laravel
  <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter,Laravel** 
