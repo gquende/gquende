@@ -4,7 +4,7 @@
 
  <br/> 
 
-💬  &nbsp; 
+💬  &nbsp; E pluribus unum!
  <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter,Laravel** 
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Java, Flutter, Laravel
  <br/> :book: &nbsp; Actualmente estou aprendendo **Business Intelligence & Analytics**
