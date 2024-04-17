@@ -12,10 +12,6 @@
 <p align="left">
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gquende&layout=compact&hide=html" alt="Gerald" />
-
-</p>
-
 ## Skills :nerd_face:
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
