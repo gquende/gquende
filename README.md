@@ -1,14 +1,14 @@
-## Bem vindo 👋
+## Hey, 👋
 
-**Geraldo** 
+**I am Geraldo and...** 
 
  <br/> 
 
 💬  &nbsp; E pluribus unum!
- <br/> :computer: &nbsp; Minhas tecnologias: **Java, Flutter,Laravel** 
- <br/> :heart: &nbsp; Buscando colaborar com projetos em Java, Flutter, Laravel
- <br/> :book: &nbsp; Actualmente estou aprendendo **Business Intelligence & Analytics**
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GeraldoQuende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gquende/)](https://www.linkedin.com/in/gquende/) 
+ <br/> :computer: &nbsp; My stack: **Java, Flutter,Laravel** 
+ <br/> :heart: &nbsp; I am looking for collaborate with Java, Flutter, Laravel projects
+ <br/> :book: &nbsp; I am currently learning **Business Intelligence & Analytics**
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-GeraldoQuende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gquende/)](https://www.linkedin.com/in/gquende/) 
 <p align="left">
 
 
