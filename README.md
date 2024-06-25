@@ -8,7 +8,7 @@
  <br/> :computer: &nbsp; My stack: **Java, Flutter,Laravel** 
  <br/> :heart: &nbsp; I am looking for collaborate with Java, Flutter, Laravel projects
  <br/> :book: &nbsp; I am currently learning **Business Intelligence & Analytics**
- <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-GeraldoQuende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gquende/)](https://www.linkedin.com/in/gquende/) 
+
 <p align="left">
 
 
